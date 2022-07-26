@@ -168,5 +168,62 @@
         "field_trainings_number": 3,
         "field_img_url": "https://randomuser.me/api/portraits/men/18.jpg"
     }
+  ],
+  "trainings": [
+    {
+            tid: '1',
+            field_training_name: 'Technical Writing: How to Write Software Documentation',
+            field_training_description:
+                'Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing!',
+            field_ratings: '4.2',
+            field_voters_number: '120',
+            field_duration: '18:23',
+            field_img_url: 'https://i.imgur.com/A431ipP.png',
+            field_img_alt_txt: 'Technical Writing: How to Write Software Documentation',
+            field_status: 'Completed',
+            field_certificate_url: 'http://pii.or.id/uploads/dummies.pdf',
+            field_completed_date: '2020-05-14',
+        },
+        {
+            tid: '2',
+            field_training_name: 'Technical Writing: How to Write Software Documentation',
+            field_training_description:
+                'Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing!',
+            field_ratings: '4.2',
+            field_voters_number: '120',
+            field_duration: '18:23',
+            field_img_url: 'https://i.imgur.com/A431ipP.png',
+            field_img_alt_txt: 'Technical Writing: How to Write Software Documentation',
+            field_status: 'Assigned',
+            field_due_time: '2020-05-14',
+        },
+        {
+            tid: '3',
+            field_training_name: 'Technical Writing: How to Write Software Documentation',
+            field_training_description:
+                'Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing!',
+            field_ratings: '4.2',
+            field_voters_number: '120',
+            field_duration: '18:23',
+            field_img_url: 'https://i.imgur.com/A431ipP.png',
+            field_img_alt_txt: 'Technical Writing: How to Write Software Documentation',
+            field_status: 'In-Progress',
+            field_due_time: '2020-05-14',
+            field_progress: 80,
+        },
+        {
+            tid: '4',
+            field_training_name: 'Technical Writing: How to Write Software Documentation',
+            field_training_description:
+                'Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing! Learn a proven strategy for writing software docu in GitHub wiki based on 12 main principles of technical writing!',
+            field_ratings: '4.2',
+            field_voters_number: '120',
+            field_duration: '18:23',
+            field_img_url: 'https://i.imgur.com/A431ipP.png',
+            field_img_alt_txt: 'Technical Writing: How to Write Software Documentation',
+            field_status: 'Completed',
+            field_certificate_url: 'http://pii.or.id/uploads/dummies.pdf',
+            field_completed_date: '2020-05-14',
+        }
   ]
 }
