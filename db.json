@@ -220,6 +220,8 @@
       "field_status": "Completed",
       "field_certificate_url": "http://pii.or.id/uploads/dummies.pdf",
       "field_completed_date": "2020-05-14"
+      "field_course_rating": 4,
+      "field_instructor_rating": 4,
     }
   ]
 }
