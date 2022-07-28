@@ -179,7 +179,7 @@
       "field_duration": "18:23",
       "field_img_url": "https://i.imgur.com/A431ipP.png",
       "field_img_alt_txt": "Technical Writing: How to Write Software Documentation",
-      "field_status": "Completed",
+      "field_status": "completed",
       "field_certificate_url": "http://pii.or.id/uploads/dummies.pdf",
       "field_completed_date": "2020-05-14"
     },
@@ -192,7 +192,7 @@
       "field_duration": "18:23",
       "field_img_url": "https://i.imgur.com/A431ipP.png",
       "field_img_alt_txt": "Technical Writing: How to Write Software Documentation",
-      "field_status": "Assigned",
+      "field_status": "assigned",
       "field_due_time": "2020-05-14"
     },
     {
@@ -204,7 +204,7 @@
       "field_duration": "18:23",
       "field_img_url": "https://i.imgur.com/A431ipP.png",
       "field_img_alt_txt": "Technical Writing: How to Write Software Documentation",
-      "field_status": "In-Progress",
+      "field_status": "in-Progress",
       "field_due_time": "2020-05-14",
       "field_progress": 80
     },
@@ -217,7 +217,7 @@
       "field_duration": "18:23",
       "field_img_url": "https://i.imgur.com/A431ipP.png",
       "field_img_alt_txt": "Technical Writing: How to Write Software Documentation",
-      "field_status": "Completed",
+      "field_status": "completed",
       "field_certificate_url": "http://pii.or.id/uploads/dummies.pdf",
       "field_completed_date": "2020-05-14",
       "field_course_rating": 4,
